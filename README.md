@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=FK04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FK04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Insight from the Codebase
+### ✍️ Insight From The Codebase
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
