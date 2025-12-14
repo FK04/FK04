@@ -17,7 +17,7 @@
 
 
 # 💡 Insight From The Codebase
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FK04&icon=0&color=0)](https://visitcount.itsvg.in)
