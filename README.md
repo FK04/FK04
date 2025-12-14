@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FK04&theme=synthwave&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FK04&theme=synthwave&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FK04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 
