@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I’m a Tech Enthusiast Passionate About Building Practical Solutions.<br>💻 Hands-on with Python | SQL | AI/ML | Backend Development<br>📊 Curious About Data, Analytics, and System Design<br>⚙️ Turning Complex Ideas Into Clean, Simple Code<br>🚀 Learning, Building, and Growing Through Real-World Projects
+👋 Hi, I’m a Tech Enthusiast Passionate About Building Scalable Solutions.<br>💻 Hands-on with Python | SQL | AI/ML | Backend Development<br>📊 Curious About Data, Analytics, and System Design<br>⚙️ Turning Complex Ideas Into Clean, Simple Code<br>🚀 Learning, and Growing Through Real-World Projects
 
 
 ## 🔗 Let’s Connect:
